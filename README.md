@@ -1,5 +1,5 @@
 # [Throwdown](https://kadauber.scripts.mit.edu/throwdown)
-> Note: This project is a continuation of [wondr-buildr](https://kadauber.scripts.mit.edu/wondr-buildr). The source code for wondr-buildr can be found [here in my Github](http://github.com/kadauber/wondr-buildr).
+> Note: This project is the second iteration of [wondr-buildr](https://kadauber.scripts.mit.edu/wondr-buildr). The source code for wondr-buildr can be found [here in my Github](http://github.com/kadauber/wondr-buildr).
 
 ## About *Genius: The Transgression*
 My friends and I love the tabletop role-playing game (think Dungeons & Dragons) [*Genius: The Transgression*](https://sites.google.com/site/moochava/genius). In this game, everyone plays as a mad scientist and goes around trying to carry out their nefarious plots. One of the primary mechanics *Genius* is the creation of "wonders" of mad science, which are machines, organisms, and other creations that break the laws of reality. We like to keep track of the wonders that exist, so I made wondr-buildr as a minimal interface for keeping track of them. 
