@@ -11,4 +11,4 @@ Most of interface to the data structure itself is not implemented, but the bulk 
 
 My ultimate objective for this project is to allow us to create wonders quickly and easily by taking care of the complexity behind the scenes. This will hopefully permit fast prototyping. The app is called "Throwdown" because I intend to ask my friends to make several wonders apiece using the app, then use what they create in a one-off session in which they fight one another in a "throwdown" using the wonders they've made. 
 
-*Update: Since learning that Google Docs are not universally acceptable, I've moved my documentation into markdown files in this repository.*
+*Update: Since learning that Google Docs are not universally accessible, I've moved my documentation into markdown files in this repository.*
