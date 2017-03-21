@@ -26,7 +26,12 @@
 </select>
 <input type="text" name="phys_description" placeholder="What does this look like?">
 <input type="text" name="effect_description" placeholder="What does this do?">
-
+<input type="submit">
 </form>
+<?php
+print "hello<br>";
+require_once 'db_connect.php';
+echo DATABASE;
+?>
 </body>
 </html>

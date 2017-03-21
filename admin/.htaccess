@@ -1,0 +1,3 @@
+AuthType SSLCert
+Require user kadauber
+ErrorDocument 401 /__scripts/needcerts

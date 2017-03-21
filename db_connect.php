@@ -1,6 +1,6 @@
 <?php
 // require_once 'resources/config.php'; // include this line during development
-include_once '~/web_scripts_config/throwdown_config.php'; // include this line during production
+include_once 'throwdown_config.php'; // include this line during production
 
 // Return a connection to the MySQL Server kadauber+Wonders database.
 function connect_to_database() {

@@ -1,7 +1,6 @@
 <?php
 header('Location: /throwdown/index.php');
 
-require_once '~/web_scripts_config/throwdown_config.php';
 require_once 'db_connect.php';
 
 $conn = connect_to_database();
